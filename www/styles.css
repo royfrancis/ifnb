@@ -1,0 +1,36 @@
+/* easyshiny */
+/* custom css styles */
+
+.page {
+    margin: auto;
+}
+
+.tab-section {
+  margin-bottom: 1.5em;
+}
+
+.input-panel {
+  background-color: #f3f6f4;
+  padding: 15px;
+  border-radius: 6px;
+}
+
+.input-panel-section {
+  margin-bottom: 1em;
+}
+
+.btn {
+  margin: 5px 0px;
+}
+
+.dt-buttons {
+  padding-top: 0.25em;
+  
+}
+
+.dataTables_info,
+.dataTables_paginate,
+.dt-buttons {
+  margin: 0.5em 0em;
+}
+
