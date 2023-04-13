@@ -1,6 +1,6 @@
 # ifnb
 
-Testing shiny-server
+Build a docker image and push to dockerhub.
 
 ```
 docker build -t shiny-ifnb .
@@ -10,5 +10,6 @@ docker push royfrancis/shiny-ifnb:v1.0
 docker push royfrancis/shiny-ifnb:latest
 ```
 
-https://ifnb.serve.scilifelab.se/
+DockerHub: https://hub.docker.com/r/royfrancis/shiny-ifnb
+Serve: https://ifnb.serve.scilifelab.se/
 
